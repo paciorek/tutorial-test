@@ -1,11 +1,3 @@
-.section {
-  margin-left: 150px;
-  font-family: "Lato";
-}
-section {
-  margin-left: 150px;
-  font-family: "Lato";
-}
 
 .sidebar {
 height: 200px;
@@ -23,3 +15,8 @@ font-size: 24px;
 display: block;
 }
 
+
+.body-text {
+margin-left: 120px;
+font-size: 18px;
+}
