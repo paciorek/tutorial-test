@@ -1,0 +1,7 @@
+# Parallel processing in R
+
+Hello there.
+
+```{r}
+mean(rnorm(3))
+```

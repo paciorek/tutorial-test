@@ -1,3 +1,3 @@
 # Parallel processing
 
-Materials on parallel processing.
+Materials on parallel processing. See [here](more_info).
