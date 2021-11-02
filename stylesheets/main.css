@@ -18,5 +18,11 @@ display: block;
 
 .body-text {
 margin-left: 120px;
-font-size: 88px;
+font-size: 18px;
+}
+nav {
+margin-left: 120px;
+}
+h1, footer {
+margin-left: 120px;
 }
