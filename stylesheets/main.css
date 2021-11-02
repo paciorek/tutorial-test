@@ -1,4 +1,8 @@
-.body {
+.section {
+  margin-left: 150px;
+  font-family: "Lato";
+}
+section {
   margin-left: 150px;
   font-family: "Lato";
 }
