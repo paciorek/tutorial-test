@@ -1,5 +1,5 @@
 body {
-  margin: 0;
+  margin-left: 150px;
   font-family: "Lato", sans-serif;
 }
 
@@ -19,7 +19,3 @@ font-size: 24px;
 display: block;
 }
 
-.body-text {
-margin-left: 150px;
-font-size: 18px;
-}
