@@ -1,4 +1,7 @@
-# Parallel processing in R
+---
+title: Parallel processing in R
+layout: default
+---
 
 Hello there.
 
