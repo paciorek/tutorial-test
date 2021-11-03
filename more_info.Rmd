@@ -3,7 +3,7 @@ title: Parallel processing in R
 layout: default
 ---
 
-Hello there.
+# Hello there. Some stats.
 
 ```{r}
 mean(rnorm(3))
