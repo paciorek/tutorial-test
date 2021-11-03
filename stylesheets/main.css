@@ -1,7 +1,7 @@
 
 .sidebar {
 height: 200px;
-width: 120px;
+width: 150px;
 position: fixed;
 top: 0;
 left: 0;
@@ -17,12 +17,12 @@ display: block;
 
 
 .body-text {
-margin-left: 120px;
+margin-left: 150px;
 font-size: 18px;
 }
 nav {
-margin-left: 120px;
+margin-left: 150px;
 }
 h1, footer {
-margin-left: 120px;
+margin-left: 150px;
 }
