@@ -1,0 +1,1 @@
+Can use  Rmd rendering in as a Make command but probably can't do via GH actions, except could have the action commit the md results of the Make to the repo, in which case there would be two Jekyll renders.
